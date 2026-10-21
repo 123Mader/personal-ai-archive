@@ -17,7 +17,7 @@ version: 1.0
 
 ## 专业方向
 - 主攻方向：{{如 Android 逆向 / 车机系统 / 全栈开发}}
-- 擅长技术栈：{{如 Kotlin、Shell、Node.js、Python}}
+- 擅长技术栈：{{如 Kotlin、Shell、Node.js、Rust}}
 
 ## 工作阶段
 - 当前阶段：{{如 独立开发 / 创业 / 团队负责人}}

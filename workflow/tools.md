@@ -21,7 +21,7 @@ version: 1.0
 - 知识管理：{{如 Obsidian、本仓库 memory/ 目录}}
 
 ## 自动化与脚本
-- 脚本语言：{{如 Shell、Node.js、Python}}
+- 脚本语言：{{如 Shell、Node.js、Rust}}
 - 常用脚本目录：{{如 你的脚本目录路径}}
 
 ## 设备与平台
